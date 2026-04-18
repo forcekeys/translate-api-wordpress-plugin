@@ -41,7 +41,7 @@ Translate your WordPress content using the powerful Forcekeys Translation API. T
 ## 🚀 Installation
 
 ### Method 1: WordPress Admin (Recommended)
-1. Download the plugin ZIP file from [forcekeys.com](https://forcekeys.com)
+1. Download the plugin ZIP file from [translate.forcekeys.com](https://translate.forcekeys.com)
 2. Go to **Plugins → Add New → Upload Plugin**
 3. Upload the ZIP file and click **Install Now**
 4. Activate the plugin
@@ -61,7 +61,7 @@ git clone https://github.com/forcekeys/wordpress-translation-plugin.git forcekey
 ## ⚙️ Configuration
 
 ### 1. Get Your API Key
-1. Sign up at [forcekeys.com](https://forcekeys.com)
+1. Sign up at [translate.forcekeys.com](https://translate.forcekeys.com)
 2. Go to your Dashboard
 3. Generate an API key from the API Keys section
 
@@ -382,9 +382,9 @@ GNU General Public License for more details.
 ## 📞 Support
 
 ### Documentation
-- [Official Documentation](https://forcekeys.com/docs/wordpress)
-- [API Reference](https://forcekeys.com/api-docs)
-- [FAQ](https://forcekeys.com/faq)
+- [Official Documentation](https://translate.forcekeys.com/docs)
+- [API Reference](https://translate.forcekeys.com/docs)
+- [FAQ](https://translate.forcekeys.com/guides)
 
 ### Community Support
 - [GitHub Issues](https://github.com/forcekeys/wordpress-translation-plugin/issues)
@@ -406,7 +406,7 @@ Please report bugs on [GitHub Issues](https://github.com/forcekeys/wordpress-tra
 
 ## 🔗 Links
 
-- **Website**: [forcekeys.com](https://forcekeys.com)
+- **Website**: [forcekeys.com](https://translate.forcekeys.com)
 - **Documentation**: [docs.forcekeys.com](https://docs.forcekeys.com)
 - **GitHub**: [github.com/forcekeys](https://github.com/forcekeys)
 - **Twitter**: [@forcekeys](https://twitter.com/forcekeys)
