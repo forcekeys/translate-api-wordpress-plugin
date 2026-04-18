@@ -406,8 +406,8 @@ Please report bugs on [GitHub Issues](https://github.com/forcekeys/wordpress-tra
 
 ## 🔗 Links
 
-- **Website**: [forcekeys.com](https://translate.forcekeys.com)
-- **Documentation**: [docs.forcekeys.com](https://docs.forcekeys.com)
+- **Website**: [translate.forcekeys.com](https://translate.forcekeys.com)
+- **Documentation**: [translate.forcekeys.com/docs](https://translate.forcekeys.com/docs)
 - **GitHub**: [github.com/forcekeys](https://github.com/forcekeys)
 - **Twitter**: [@forcekeys](https://twitter.com/forcekeys)
 - **LinkedIn**: [Forcekeys](https://linkedin.com/company/forcekeys)
