@@ -41,7 +41,7 @@ Translate your WordPress content using the powerful Forcekeys Translation API. T
 ## 🚀 Installation
 
 ### Method 1: WordPress Admin (Recommended)
-1. Download the plugin ZIP file from [deeptranslate.online](https://deeptranslate.online)
+1. Download the plugin ZIP file from [translate.forcekeys.com](https://translate.forcekeys.com)
 2. Go to **Plugins → Add New → Upload Plugin**
 3. Upload the ZIP file and click **Install Now**
 4. Activate the plugin
@@ -61,7 +61,7 @@ git clone https://github.com/forcekeys/wordpress-translation-plugin.git forcekey
 ## ⚙️ Configuration
 
 ### 1. Get Your API Key
-1. Sign up at [deeptranslate.online](https://deeptranslate.online)
+1. Sign up at [translate.forcekeys.com](https://translate.forcekeys.com)
 2. Go to your Dashboard
 3. Generate an API key from the API Keys section
 
@@ -290,7 +290,7 @@ View statistics in **Settings → Forcekeys Translation → Statistics**
 
 **2. Translation Not Working**
 - Check PHP cURL extension is enabled
-- Verify server can connect to `api.deeptranslate.online`
+- Verify server can connect to `api.translate.forcekeys.com`
 - Check WordPress debug log for errors
 
 **3. Slow Translation Performance**
@@ -382,8 +382,8 @@ GNU General Public License for more details.
 ## 📞 Support
 
 ### Documentation
-- [Official Documentation](https://deeptranslate.online/docs)
-- [API Reference](https://deeptranslate.online/docs)
+- [Official Documentation](https://translate.forcekeys.com/docs)
+- [API Reference](https://translate.forcekeys.com/docs)
 - [FAQ](https://translate.forcekeys.com/guides)
 
 ### Community Support
@@ -406,8 +406,8 @@ Please report bugs on [GitHub Issues](https://github.com/forcekeys/wordpress-tra
 
 ## 🔗 Links
 
-- **Website**: [deeptranslate.online](https://deeptranslate.online)
-- **Documentation**: [deeptranslate.online/docs](https://deeptranslate.online/docs)
+- **Website**: [translate.forcekeys.com](https://translate.forcekeys.com)
+- **Documentation**: [translate.forcekeys.com/docs](https://translate.forcekeys.com/docs)
 - **GitHub**: [github.com/forcekeys](https://github.com/forcekeys)
 - **Twitter**: [@forcekeys](https://twitter.com/forcekeys)
 - **LinkedIn**: [Forcekeys](https://linkedin.com/company/forcekeys)

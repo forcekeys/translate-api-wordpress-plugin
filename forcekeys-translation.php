@@ -21,7 +21,7 @@ if (!defined('ABSPATH')) {
 define('FKT_VERSION', '1.0.0');
 define('FKT_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('FKT_PLUGIN_URL', plugin_dir_url(__FILE__));
-define('FKT_API_BASE_URL', 'https://api.deeptranslate.online/api/v1');
+define('FKT_API_BASE_URL', 'https://api.translate.forcekeys.com/api/v1');
 
 // Include required classes
 require_once FKT_PLUGIN_DIR . 'includes/class-forcekeys-api.php';
