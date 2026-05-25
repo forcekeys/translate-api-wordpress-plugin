@@ -1,0 +1,108 @@
+/**
+ * Forcekeys Translation - Admin Styles
+ */
+
+/* Settings Page */
+.fkt-admin-wrap .form-table th {
+    width: 200px;
+}
+
+.fkt-admin-wrap .form-table input[type="text"],
+.fkt-admin-wrap .form-table input[type="url"],
+.fkt-admin-wrap .form-table input[type="password"],
+.fkt-admin-wrap .form-table input[type="number"],
+.fkt-admin-wrap .form-table select {
+    width: 300px;
+}
+
+.fkt-admin-wrap .form-table .description {
+    font-style: italic;
+    color: #666;
+}
+
+/* Meta Box */
+#fkt_translation_panel {
+    padding: 15px;
+}
+
+#fkt_translation_panel h3,
+#fkt_translation_panel h4 {
+    margin-top: 0;
+}
+
+#fkt_translation_panel table.widefat {
+    margin-top: 15px;
+}
+
+#fkt_translation_panel .spinner {
+    margin-left: 10px;
+}
+
+/* Status Messages */
+#fkt-translate-status {
+    margin-top: 15px;
+}
+
+#fkt-translate-status .notice {
+    margin: 0;
+}
+
+/* WooCommerce Integration */
+#fkt_translation_panel .options_group {
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+/* Translation Tabs */
+.woocommerce_options_panel .fkt-tab-content {
+    display: none;
+}
+
+.woocommerce_options_panel .fkt-tab-content.active {
+    display: block;
+}
+
+/* Dashboard Widget */
+#fkt_dashboard_widget .inside {
+    margin: 0;
+    padding: 0;
+}
+
+#fkt_dashboard_widget table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#fkt_dashboard_widget th,
+#fkt_dashboard_widget td {
+    padding: 8px 12px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+#fkt_dashboard_widget th {
+    background: #f9f9f9;
+    font-weight: 600;
+}
+
+/* Bulk Edit */
+.fkt-bulk-edit-field {
+    margin-bottom: 15px;
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 4px;
+}
+
+.fkt-bulk-edit-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.fkt-bulk-edit-field select,
+.fkt-bulk-edit-field input {
+    width: 100%;
+    max-width: 300px;
+}
